@@ -1,4 +1,4 @@
-module github.com/k2-fsa/sherpa-onnx-go/sherpa_onnx
+module github.com/k2-fsa/sherpa-onnx-go
 
 go 1.20
 
