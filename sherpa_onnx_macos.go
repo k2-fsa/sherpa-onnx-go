@@ -1,9 +1,9 @@
-//go:build (!android && linux && arm64) || (!android && linux && amd64 && !musl) || (!android && linux && arm && !arm7) || (!android && arm7) || (!android && linux && 386 && !musl) || (!android && musl) || (!android && linux && mips) || (!android && linux && mips64) || (!android && linux && mips64le) || (!android && linux && mipsle)
+//go:build (darwin && amd64 && !ios) || (darwin && arm64 && !ios)
 
 package sherpa_onnx
 
 import (
-	sherpa "github.com/k2-fsa/sherpa-onnx-go-linux/sherpa-onnx"
+	sherpa "github.com/k2-fsa/sherpa-onnx-go-macos"
 )
 
 type OnlineTransducerModelConfig = sherpa.OnlineTransducerModelConfig

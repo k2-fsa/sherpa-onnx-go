@@ -1,9 +1,9 @@
-//go:build (darwin && amd64 && !ios) || (darwin && arm64 && !ios)
+//go:build (windows && amd64) || (windows && 386)
 
 package sherpa_onnx
 
 import (
-	sherpa "github.com/k2-fsa/sherpa-onnx-go-macos/sherpa-onnx"
+	sherpa "github.com/k2-fsa/sherpa-onnx-go-windows"
 )
 
 type OnlineTransducerModelConfig = sherpa.OnlineTransducerModelConfig
