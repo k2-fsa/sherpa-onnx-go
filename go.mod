@@ -1,6 +1,6 @@
 module github.com/k2-fsa/sherpa-onnx-go
 
-go 1.20
+go 1.12
 
 require (
 	github.com/k2-fsa/sherpa-onnx-go-linux v1.5.3-alpha.6
