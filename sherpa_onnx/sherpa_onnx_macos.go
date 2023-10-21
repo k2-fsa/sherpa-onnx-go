@@ -37,3 +37,12 @@ var DeleteOfflineRecognizer = sherpa.DeleteOfflineRecognizer
 
 var NewOfflineStream = sherpa.NewOfflineStream
 var DeleteOfflineStream = sherpa.DeleteOfflineStream
+
+type OfflineTtsVitsModelConfig = sherpa.OfflineTtsVitsModelConfig
+type OfflineTtsModelConfig = sherpa.OfflineTtsModelConfig
+type OfflineTtsConfig = sherpa.OfflineTtsConfig
+type GeneratedAudio = sherpa.GeneratedAudio
+type OfflineTts = sherpa.OfflineTts
+
+var DeleteOfflineTts = sherpa.DeleteOfflineTts
+var NewOfflineTts = sherpa.NewOfflineTts
