@@ -8,6 +8,7 @@ import (
 
 type OnlineTransducerModelConfig = sherpa.OnlineTransducerModelConfig
 type FeatureConfig = sherpa.FeatureConfig
+type OnlineCtcFstDecoderConfig = sherpa.OnlineCtcFstDecoderConfig
 type OnlineRecognizerConfig = sherpa.OnlineRecognizerConfig
 type OnlineRecognizerResult = sherpa.OnlineRecognizerResult
 type OnlineRecognizer = sherpa.OnlineRecognizer
