@@ -13,6 +13,7 @@ type OnlineRecognizerConfig = sherpa.OnlineRecognizerConfig
 type OnlineRecognizerResult = sherpa.OnlineRecognizerResult
 type OnlineRecognizer = sherpa.OnlineRecognizer
 type OnlineStream = sherpa.OnlineStream
+type OnlineModelConfig = sherpa.OnlineModelConfig
 
 var NewOnlineRecognizer = sherpa.NewOnlineRecognizer
 var DeleteOnlineRecognizer = sherpa.DeleteOnlineRecognizer
