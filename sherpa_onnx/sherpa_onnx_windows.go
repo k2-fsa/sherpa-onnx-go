@@ -27,6 +27,9 @@ var DeleteOnlineStream = sherpa.DeleteOnlineStream
 type OfflineTransducerModelConfig = sherpa.OfflineTransducerModelConfig
 type OfflineParaformerModelConfig = sherpa.OfflineParaformerModelConfig
 type OfflineNemoEncDecCtcModelConfig = sherpa.OfflineNemoEncDecCtcModelConfig
+type OfflineWhisperModelConfig = sherpa.OfflineWhisperModelConfig
+type OfflineTdnnModelConfig = sherpa.OfflineTdnnModelConfig
+type OfflineSenseVoiceModelConfig = sherpa.OfflineSenseVoiceModelConfig
 type OfflineLMConfig = sherpa.OfflineLMConfig
 type OfflineModelConfig = sherpa.OfflineModelConfig
 type OfflineRecognizerConfig = sherpa.OfflineRecognizerConfig
@@ -82,3 +85,14 @@ type SpeakerEmbeddingManager = sherpa.SpeakerEmbeddingManager
 var NewSpeakerEmbeddingManager = sherpa.NewSpeakerEmbeddingManager
 var DeleteSpeakerEmbeddingManager = sherpa.DeleteSpeakerEmbeddingManager
 var ReadWave = sherpa.ReadWave
+
+type OfflineSpeakerSegmentationPyannoteModelConfig = sherpa.OfflineSpeakerSegmentationPyannoteModelConfig
+type OfflineSpeakerSegmentationModelConfig = sherpa.OfflineSpeakerSegmentationModelConfig
+type FastClusteringConfig = sherpa.FastClusteringConfig
+type OfflineSpeakerDiarizationConfig = sherpa.OfflineSpeakerDiarizationConfig
+type OfflineSpeakerDiarization = sherpa.OfflineSpeakerDiarization
+type OfflineSpeakerDiarizationSegment = sherpa.OfflineSpeakerDiarizationSegment
+
+var NewOfflineSpeakerDiarization = sherpa.NewOfflineSpeakerDiarization
+var DeleteOfflineSpeakerDiarization = sherpa.DeleteOfflineSpeakerDiarization
+var DeleteOfflineSpeakerDiarizationResult = sherpa.DeleteOfflineSpeakerDiarizationResult
