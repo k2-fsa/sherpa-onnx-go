@@ -95,4 +95,3 @@ type OfflineSpeakerDiarizationSegment = sherpa.OfflineSpeakerDiarizationSegment
 
 var NewOfflineSpeakerDiarization = sherpa.NewOfflineSpeakerDiarization
 var DeleteOfflineSpeakerDiarization = sherpa.DeleteOfflineSpeakerDiarization
-var DeleteOfflineSpeakerDiarizationResult = sherpa.DeleteOfflineSpeakerDiarizationResult
