@@ -95,3 +95,10 @@ type OfflineSpeakerDiarizationSegment = sherpa.OfflineSpeakerDiarizationSegment
 
 var NewOfflineSpeakerDiarization = sherpa.NewOfflineSpeakerDiarization
 var DeleteOfflineSpeakerDiarization = sherpa.DeleteOfflineSpeakerDiarization
+
+type OfflinePunctuationConfig = sherpa.OfflinePunctuationConfig
+type OfflinePunctuationModelConfig = sherpa.OfflinePunctuationModelConfig
+type OfflinePunctuation = sherpa.OfflinePunctuation
+
+var NewOfflinePunctuation = sherpa.NewOfflinePunctuation
+var DeleteOfflinePunc = sherpa.DeleteOfflinePunc
