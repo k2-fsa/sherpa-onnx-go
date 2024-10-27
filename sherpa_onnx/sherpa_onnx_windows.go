@@ -30,6 +30,7 @@ type OfflineNemoEncDecCtcModelConfig = sherpa.OfflineNemoEncDecCtcModelConfig
 type OfflineWhisperModelConfig = sherpa.OfflineWhisperModelConfig
 type OfflineTdnnModelConfig = sherpa.OfflineTdnnModelConfig
 type OfflineSenseVoiceModelConfig = sherpa.OfflineSenseVoiceModelConfig
+type OfflineMoonshineModelConfig = sherpa.OfflineMoonshineModelConfig
 type OfflineLMConfig = sherpa.OfflineLMConfig
 type OfflineModelConfig = sherpa.OfflineModelConfig
 type OfflineRecognizerConfig = sherpa.OfflineRecognizerConfig
