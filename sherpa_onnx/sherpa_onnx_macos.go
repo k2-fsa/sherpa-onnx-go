@@ -103,3 +103,15 @@ type OfflinePunctuation = sherpa.OfflinePunctuation
 
 var NewOfflinePunctuation = sherpa.NewOfflinePunctuation
 var DeleteOfflinePunc = sherpa.DeleteOfflinePunc
+
+// ============================================================
+// For Keyword spotter
+// ============================================================
+
+type KeywordSpotter = sherpa.KeywordSpotter
+type KeywordSpotterConfig = sherpa.KeywordSpotterConfig
+type KeywordSpotterResult = sherpa.KeywordSpotterResult
+
+var NewKeywordSpotter = sherpa.NewKeywordSpotter
+var NewKeywordStream = sherpa.NewKeywordStream
+var DeleteKeywordSpotter = sherpa.DeleteKeywordSpotter
