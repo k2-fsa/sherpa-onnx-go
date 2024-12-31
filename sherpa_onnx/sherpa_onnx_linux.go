@@ -114,4 +114,5 @@ type KeywordSpotterResult = sherpa.KeywordSpotterResult
 
 var NewKeywordSpotter = sherpa.NewKeywordSpotter
 var NewKeywordStream = sherpa.NewKeywordStream
+var NewKeywordStreamWithKeywords = sherpa.NewKeywordStreamWithKeywords
 var DeleteKeywordSpotter = sherpa.DeleteKeywordSpotter
