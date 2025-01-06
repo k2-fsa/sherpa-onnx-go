@@ -45,6 +45,7 @@ var NewOfflineStream = sherpa.NewOfflineStream
 var DeleteOfflineStream = sherpa.DeleteOfflineStream
 
 type OfflineTtsVitsModelConfig = sherpa.OfflineTtsVitsModelConfig
+type OfflineTtsMatchaModelConfig = sherpa.OfflineTtsMatchaModelConfig
 type OfflineTtsModelConfig = sherpa.OfflineTtsModelConfig
 type OfflineTtsConfig = sherpa.OfflineTtsConfig
 type GeneratedAudio = sherpa.GeneratedAudio
