@@ -118,3 +118,15 @@ var NewKeywordSpotter = sherpa.NewKeywordSpotter
 var NewKeywordStream = sherpa.NewKeywordStream
 var NewKeywordStreamWithKeywords = sherpa.NewKeywordStreamWithKeywords
 var DeleteKeywordSpotter = sherpa.DeleteKeywordSpotter
+
+// ============================================================
+// For Audio Tagging
+// ============================================================
+
+type AudioTagging = sherpa.AudioTagging
+type AudioTaggingConfig = sherpa.AudioTaggingConfig
+type AudioEvent = sherpa.AudioEvent
+
+var NewAudioTagging = sherpa.NewAudioTagging
+var NewAudioTaggingStream = sherpa.NewAudioTaggingStream
+var DeleteAudioTagging = sherpa.DeleteAudioTagging
