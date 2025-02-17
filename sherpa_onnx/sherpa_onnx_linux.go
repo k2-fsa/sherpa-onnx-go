@@ -28,6 +28,7 @@ type OfflineTransducerModelConfig = sherpa.OfflineTransducerModelConfig
 type OfflineParaformerModelConfig = sherpa.OfflineParaformerModelConfig
 type OfflineNemoEncDecCtcModelConfig = sherpa.OfflineNemoEncDecCtcModelConfig
 type OfflineWhisperModelConfig = sherpa.OfflineWhisperModelConfig
+type OfflineFireRedAsrModelConfig = sherpa.OfflineFireRedAsrModelConfig
 type OfflineTdnnModelConfig = sherpa.OfflineTdnnModelConfig
 type OfflineSenseVoiceModelConfig = sherpa.OfflineSenseVoiceModelConfig
 type OfflineMoonshineModelConfig = sherpa.OfflineMoonshineModelConfig
