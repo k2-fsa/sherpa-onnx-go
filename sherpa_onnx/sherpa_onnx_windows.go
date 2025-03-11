@@ -131,3 +131,15 @@ type AudioEvent = sherpa.AudioEvent
 var NewAudioTagging = sherpa.NewAudioTagging
 var NewAudioTaggingStream = sherpa.NewAudioTaggingStream
 var DeleteAudioTagging = sherpa.DeleteAudioTagging
+
+// ============================================================
+// For Speech Enhancement
+// ============================================================
+type OfflineSpeechDenoiser = sherpa.OfflineSpeechDenoiser
+type OfflineSpeechDenoiserConfig = sherpa.OfflineSpeechDenoiserConfig
+type OfflineSpeechDenoiserModelConfig = sherpa.OfflineSpeechDenoiserModelConfig
+type OfflineSpeechDenoiserGtcrnModelConfig = sherpa.OfflineSpeechDenoiserGtcrnModelConfig
+type DenoisedAudio = sherpa.DenoisedAudio
+
+var DeleteOfflineSpeechDenoiser = sherpa.DeleteOfflineSpeechDenoiser
+var NewOfflineSpeechDenoiser = sherpa.NewOfflineSpeechDenoiser
