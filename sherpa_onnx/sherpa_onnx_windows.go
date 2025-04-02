@@ -27,6 +27,7 @@ var DeleteOnlineStream = sherpa.DeleteOnlineStream
 type OfflineTransducerModelConfig = sherpa.OfflineTransducerModelConfig
 type OfflineParaformerModelConfig = sherpa.OfflineParaformerModelConfig
 type OfflineNemoEncDecCtcModelConfig = sherpa.OfflineNemoEncDecCtcModelConfig
+type OfflineDolphinModelConfig = sherpa.OfflineDolphinModelConfig
 type OfflineWhisperModelConfig = sherpa.OfflineWhisperModelConfig
 type OfflineFireRedAsrModelConfig = sherpa.OfflineFireRedAsrModelConfig
 type OfflineTdnnModelConfig = sherpa.OfflineTdnnModelConfig
