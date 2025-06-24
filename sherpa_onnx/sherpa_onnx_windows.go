@@ -145,3 +145,7 @@ type DenoisedAudio = sherpa.DenoisedAudio
 
 var DeleteOfflineSpeechDenoiser = sherpa.DeleteOfflineSpeechDenoiser
 var NewOfflineSpeechDenoiser = sherpa.NewOfflineSpeechDenoiser
+
+var GetVersion = sherpa.GetVersion
+var GetGitSha1 = sherpa.GetGitSha1
+var GetGitDate = sherpa.GetGitDate
