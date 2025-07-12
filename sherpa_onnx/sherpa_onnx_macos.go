@@ -62,6 +62,7 @@ var DeleteOfflineTts = sherpa.DeleteOfflineTts
 var NewOfflineTts = sherpa.NewOfflineTts
 
 type SileroVadModelConfig = sherpa.SileroVadModelConfig
+type TenVadModelConfig = sherpa.TenVadModelConfig
 type VadModelConfig = sherpa.VadModelConfig
 type CircularBuffer = sherpa.CircularBuffer
 
