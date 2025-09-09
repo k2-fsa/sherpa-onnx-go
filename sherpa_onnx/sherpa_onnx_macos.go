@@ -10,6 +10,7 @@ type OnlineTransducerModelConfig = sherpa.OnlineTransducerModelConfig
 type OnlineParaformerModelConfig = sherpa.OnlineParaformerModelConfig
 type OnlineZipformer2CtcModelConfig = sherpa.OnlineZipformer2CtcModelConfig
 type OnlineNemoCtcModelConfig = sherpa.OnlineNemoCtcModelConfig
+type OnlineToneCtcModelConfig = sherpa.OnlineToneCtcModelConfig
 type FeatureConfig = sherpa.FeatureConfig
 type HomophoneReplacerConfig = sherpa.HomophoneReplacerConfig
 type OnlineCtcFstDecoderConfig = sherpa.OnlineCtcFstDecoderConfig
