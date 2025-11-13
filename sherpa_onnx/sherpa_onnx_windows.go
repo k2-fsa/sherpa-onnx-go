@@ -35,6 +35,7 @@ type OfflineNemoEncDecCtcModelConfig = sherpa.OfflineNemoEncDecCtcModelConfig
 type OfflineDolphinModelConfig = sherpa.OfflineDolphinModelConfig
 type OfflineZipformerCtcModelConfig = sherpa.OfflineZipformerCtcModelConfig
 type OfflineWenetCtcModelConfig = sherpa.OfflineWenetCtcModelConfig
+type OfflineOmnilingualAsrCtcModelConfig = sherpa.OfflineOmnilingualAsrCtcModelConfig
 type OfflineWhisperModelConfig = sherpa.OfflineWhisperModelConfig
 type OfflineCanaryModelConfig = sherpa.OfflineCanaryModelConfig
 type OfflineFireRedAsrModelConfig = sherpa.OfflineFireRedAsrModelConfig
