@@ -54,6 +54,7 @@ type OfflineTtsKokoroModelConfig = sherpa.OfflineTtsKokoroModelConfig
 type OfflineTtsKittenModelConfig = sherpa.OfflineTtsKittenModelConfig
 type OfflineTtsPocketModelConfig = sherpa.OfflineTtsPocketModelConfig
 type OfflineTtsZipvoiceModelConfig = sherpa.OfflineTtsZipvoiceModelConfig
+type OfflineTtsSupertonicModelConfig = sherpa.OfflineTtsSupertonicModelConfig
 type OfflineTtsModelConfig = sherpa.OfflineTtsModelConfig
 type OfflineTtsConfig = sherpa.OfflineTtsConfig
 type GeneratedAudio = sherpa.GeneratedAudio
