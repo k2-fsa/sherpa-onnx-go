@@ -40,6 +40,7 @@ type OfflineCanaryModelConfig = sherpa.OfflineCanaryModelConfig
 type OfflineFireRedAsrModelConfig = sherpa.OfflineFireRedAsrModelConfig
 type OfflineFunASRNanoModelConfig = sherpa.OfflineFunASRNanoModelConfig
 type OfflineMoonshineModelConfig = sherpa.OfflineMoonshineModelConfig
+type OfflineQwen3ASRModelConfig = sherpa.OfflineQwen3ASRModelConfig
 type OfflineTdnnModelConfig = sherpa.OfflineTdnnModelConfig
 type OfflineSenseVoiceModelConfig = sherpa.OfflineSenseVoiceModelConfig
 type OfflineLMConfig = sherpa.OfflineLMConfig
