@@ -151,6 +151,7 @@ var NewOnlineSpeechDenoiser = sherpa.NewOnlineSpeechDenoiser
 var GetVersion = sherpa.GetVersion
 var GetGitSha1 = sherpa.GetGitSha1
 var GetGitDate = sherpa.GetGitDate
+var GetOnnxruntimeVersion = sherpa.GetOnnxruntimeVersion
 var NewAudioBuffer = sherpa.NewAudioBuffer
 var ReadWaveMultiChannel = sherpa.ReadWaveMultiChannel
 var NewSourceSeparator = sherpa.NewSourceSeparator
