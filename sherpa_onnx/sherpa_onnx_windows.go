@@ -1,4 +1,4 @@
-//go:build (windows && amd64) || (windows && 386)
+//go:build (windows && amd64) || (windows && 386) || (windows && arm64)
 package sherpa_onnx
 
 // ============================================================
