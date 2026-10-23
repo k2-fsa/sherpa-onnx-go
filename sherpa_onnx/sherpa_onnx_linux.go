@@ -6,7 +6,7 @@ package sherpa_onnx
 // ============================================================
 
 import (
-	sherpa "github.com/k2-fsa/sherpa-onnx-go-linux"
+	sherpa "github.com/k2-fsa/sherpa-onnx-go-linux/v2"
 )
 
 // ============================================================
@@ -21,6 +21,7 @@ type OnlineToneCtcModelConfig = sherpa.OnlineToneCtcModelConfig
 type OnlineModelConfig = sherpa.OnlineModelConfig
 type FeatureConfig = sherpa.FeatureConfig
 type OnlineCtcFstDecoderConfig = sherpa.OnlineCtcFstDecoderConfig
+type OfflineCtcFstDecoderConfig = sherpa.OfflineCtcFstDecoderConfig
 type HomophoneReplacerConfig = sherpa.HomophoneReplacerConfig
 type OnlineRecognizerConfig = sherpa.OnlineRecognizerConfig
 type OnlineRecognizerResult = sherpa.OnlineRecognizerResult
