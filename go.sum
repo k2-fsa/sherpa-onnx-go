@@ -1,6 +1,6 @@
-github.com/k2-fsa/sherpa-onnx-go-linux/v2 v2.0.0 h1:F7+ycmbWdPFSfq72AQXGRZJAegnoYvCraw5z0mumq48=
-github.com/k2-fsa/sherpa-onnx-go-linux/v2 v2.0.0/go.mod h1:zfoI5ANNAiKCZFyWC9NfZATijClmbT1UqZ+ycvcMKCY=
-github.com/k2-fsa/sherpa-onnx-go-macos/v2 v2.0.0 h1:+gmcH/+KZ7YQLr3cY3i595XJuo3yeiQnlwvPnF38nqs=
-github.com/k2-fsa/sherpa-onnx-go-macos/v2 v2.0.0/go.mod h1:RnFSuUrQNs+AlqEV7WiO0UIBZ1L4Ka2X5QxW8A0wCbY=
-github.com/k2-fsa/sherpa-onnx-go-windows/v2 v2.0.0 h1:mGwNBCiU1JpIZcvotGeKCaI9nhde9/JHCalRUv1wrks=
-github.com/k2-fsa/sherpa-onnx-go-windows/v2 v2.0.0/go.mod h1:4T8q8/N4uaTxf7acMYaJrafG69HJRdlDRDstAODHz2Q=
+github.com/k2-fsa/sherpa-onnx-go-linux/v2 v2.0.1 h1:lK8mB5JfJ9HnjXb8W05GfIC/7C3twvRfQzxQOobRxic=
+github.com/k2-fsa/sherpa-onnx-go-linux/v2 v2.0.1/go.mod h1:zfoI5ANNAiKCZFyWC9NfZATijClmbT1UqZ+ycvcMKCY=
+github.com/k2-fsa/sherpa-onnx-go-macos/v2 v2.0.1 h1:9lFAW58pLnK60K2eKlW1u8ERDYw3wbT9FoJX77XTX3s=
+github.com/k2-fsa/sherpa-onnx-go-macos/v2 v2.0.1/go.mod h1:RnFSuUrQNs+AlqEV7WiO0UIBZ1L4Ka2X5QxW8A0wCbY=
+github.com/k2-fsa/sherpa-onnx-go-windows/v2 v2.0.1 h1:eGSMUAEedupoBuAIOi75tJ3/25fwEQarbRS75qWHNEs=
+github.com/k2-fsa/sherpa-onnx-go-windows/v2 v2.0.1/go.mod h1:4T8q8/N4uaTxf7acMYaJrafG69HJRdlDRDstAODHz2Q=

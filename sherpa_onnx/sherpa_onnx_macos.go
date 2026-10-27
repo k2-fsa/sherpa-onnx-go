@@ -98,6 +98,7 @@ type AudioTagging = sherpa.AudioTagging
 type AudioEvent = sherpa.AudioEvent
 type OfflineSpeechDenoiserGtcrnModelConfig = sherpa.OfflineSpeechDenoiserGtcrnModelConfig
 type OfflineSpeechDenoiserDpdfNetModelConfig = sherpa.OfflineSpeechDenoiserDpdfNetModelConfig
+type OfflineSpeechDenoiserVoxLockModelConfig = sherpa.OfflineSpeechDenoiserVoxLockModelConfig
 type OfflineSpeechDenoiserModelConfig = sherpa.OfflineSpeechDenoiserModelConfig
 type OfflineSpeechDenoiserConfig = sherpa.OfflineSpeechDenoiserConfig
 type OfflineSpeechDenoiser = sherpa.OfflineSpeechDenoiser
